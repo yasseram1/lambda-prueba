@@ -17,7 +17,7 @@ Este proyecto proporciona una API para realizar operaciones CRUD básicas sobre 
     },
     {
         "id": 2,
-        "nombre": "Miguel Edit",
+        "nombre": "Miguel",
         "email": "miguel@gmail.com"
     }
 ]
@@ -30,8 +30,8 @@ Este proyecto proporciona una API para realizar operaciones CRUD básicas sobre 
 ```json
 {
     "id" : 2,
-    "nombre" : "Miguel Edit",
-    "email" : "miguel@gmail.com"
+    "nombre" : "Angelo",
+    "email" : "angelo@gmail.com"
 
 }
 ```
@@ -49,8 +49,8 @@ Este proyecto proporciona una API para realizar operaciones CRUD básicas sobre 
 ```json
 {
     "id" : 3,
-    "nombre" : "Miguel",
-    "email" : "miguel@gmail.com"
+    "nombre" : "Angelo Edit",
+    "email" : "Angelo@gmail.com"
 
 }
 ```
